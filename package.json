@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "build": "echo 'No build steps required."
+    "build": "echo 'No build steps required.'"
   },
   "author": "Selva",
   "license": "ISC",
